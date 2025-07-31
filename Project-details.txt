@@ -1,5 +1,3 @@
-# EventDriven-Analytics-Project
-
 This is formaula one event drivent pipeline. 
 
 
