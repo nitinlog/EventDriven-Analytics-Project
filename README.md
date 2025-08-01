@@ -16,7 +16,17 @@ Advanced metrics (lap time consistency, pit stop efficiency)
 
 
 
-TECH STACK - Snowflake, dbt, Airflow, Python, looker/Tableau
+Tech Stack:
+
+Snowflake (Data Warehouse)
+
+dbt (Data Transformation & Modeling)
+
+Python (for orchestration and ingestion)
+
+GitHub Actions (for CI/CD)
+
+Optional: Airflow or Prefect (for orchestration), Kafka (for real-time ingestion), Streamlit (for dashboards)
 
 
 
