@@ -22,11 +22,11 @@ Snowflake (Data Warehouse)
 
 dbt (Data Transformation & Modeling)
 
-Python (for orchestration and ingestion)
+Airflow for orchestration
 
 GitHub Actions (for CI/CD)
 
-Optional: Airflow or Prefect (for orchestration), Kafka (for real-time ingestion), Streamlit (for dashboards)
+
 
 
 
