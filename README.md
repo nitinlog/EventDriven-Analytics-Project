@@ -18,7 +18,7 @@ Advanced metrics (lap time consistency, pit stop efficiency)
 
 Tech Stack:
 
-Snowflake (Data Warehouse)
+Bigquery (Data Warehouse)
 
 dbt (Data Transformation & Modeling)
 
@@ -50,7 +50,7 @@ Project Architecture -
            |
            v
 +-----------------------+
-|   Snowflake Raw Layer |  <-- Store raw JSON or parsed data + ingestion metadata
+|   Bigquery Raw Layer |  <-- Store raw JSON or parsed data + ingestion metadata
 +----------+------------+
            |
            v
